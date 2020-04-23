@@ -15,3 +15,8 @@ drawable klosörüne kendi logo.png dosyasını atarsanız değiştirmenize gere
 ### Onesignal bildirim sistemini aktif etme Build.gradle(Module:app)
 
 ![gitonesignalıd fw](https://user-images.githubusercontent.com/41057642/80109950-d098ad00-8586-11ea-9f06-c540e5f048be.png)
+
+### Ana ekran logo'sunu güncelleme App sağ tıklayın New -> Image Assest
+
+
+ 
