@@ -8,3 +8,9 @@ onesignal, splash screen, logo webview project.
 
 ### Splash Ekranı Değiştirebileceğiniz yer App -> Res -> Drawable -> Splash_design.xml
 
+![gitsplashdesign fw](https://user-images.githubusercontent.com/41057642/80109487-38022d00-8586-11ea-86d5-c351ff61404d.png)
+
+drawable klosörüne kendi logo.png dosyasını atarsanız değiştirmenize gerek kalmaz. Style.xml'den Splash ekranın arkaplanının rengini değiştirebilir veya resim ekliyebilirsiniz.
+
+### Onesignal bildirim sistemini aktif etme Build.gradle(Module:app)
+
